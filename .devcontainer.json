@@ -1,0 +1,7 @@
+{
+    "name": "${localWorkspaceFolderBasename}",
+    "image": "node:18",
+    "forwardPorts": [8787],
+    "postCreateCommand": "npm install",
+    "remoteUser": "node"
+  }
