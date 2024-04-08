@@ -6,7 +6,7 @@ export const loader = async () => {
 };
 
 export const action = async () => {
-  return;
+  return null;
 };
 
 export default function ButtonForm() {
